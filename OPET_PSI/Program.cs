@@ -7,6 +7,7 @@ namespace OPET_PSI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Whorld!");
+            Console.WriteLine("Vuckovic");
         }
     }
 }
